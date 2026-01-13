@@ -18,5 +18,6 @@ func main() {
 		// for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.</p>
 		fmt.Println("i =", 100/i)
 		//Test change on branch test-branch-2
+		//Test PR updated with commit
 	}
 }
